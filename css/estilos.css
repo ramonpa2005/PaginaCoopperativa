@@ -1,0 +1,128 @@
+/*.change{
+	font-size: 40px;
+}
+#estilodos{
+	font-size: 60px;
+}
+p span {
+	color: purple;
+}*/
+.fuentes{
+	font-size: 20px;/* tamaño*/
+	font-weight: bold;/* negrita*/
+	font-style: italic;/* cursiva normal*/
+	font-family: arial;/* tipo de letra*/
+	background:#630303/* color de fondo*/
+	/*background-image: url('../img/ADN.jpg');*/
+}
+/*.stilo2{
+	text-decoration: underline;
+}*/
+ *{
+	/*text-align: justify;*//*alineacion del texto*/
+	/*margin: 15px;/* margen*/
+	/*word-spacing: 0.5px;/*espacio*/
+/*	line-height: 30px;/* interlineado*/
+	/*text-transform: uppercase;/*mayuscula*/
+	/*background-image: url('../img/thZSU1682A.jpg');*/
+	/*background-attachment: fixed;/*fija la imagen*/
+	/*background-repeat: repeat-x; */ /*repite imagen eje de las x*/
+	/*background-repeat: repeat-y; *//*repite imagen eje de las y*/
+}
+/*#caja1{
+	background-color: #CD1BBA;
+	padding:20px;
+	padding top:50; 
+	margin top: 20px;
+	border:5px solid #174B18;
+	border-radius: 50px;
+}*/
+body{
+background-color: #045776;
+color: #0DFCFF;
+}
+li{
+	display: inline-block;
+}
+#menu li{
+	text-decoration: none;
+	list-style-type:none;
+	padding: 20px;
+}
+#menu{
+	background-color: #065D95;
+	color: #FCFCFC;
+	border-bottom: 5px ;
+}
+
+#menu li:hover{
+	background: #ECE7E7
+}
+#menu li a{
+	text-decoration: none;
+	color: #FCFCFC;
+}
+.padre{
+	height: 230px;
+	width: 900px;
+	margin:auto;
+	background-color: #F60E4A;
+	border-radius: 20px;
+
+}
+.logo{
+	height: 200px;
+	width: 275px;
+	margin-left: 2%;
+	margin-top: 1.5%;
+	background-image: url('../img/Logo.png');
+	background-size: cover;
+	display: inline-block;
+	border-radius: 20px;
+}
+	
+.banner{
+	height: 200px;
+	width: 575px;
+	margin-left: 2%;
+	margin-top: 1.5%;
+	background-color: #965F08;
+	display: inline-block;
+	border-radius: 20px;
+}
+.prueba{
+	height: 200px;
+	width: 275px;
+	border-radius: 20px;
+	background-color: #965F08;
+	overflow: scroll;
+	display: none;
+}
+.etiqueta{
+	background-color: #F4FAF9;
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-left:15px;
+	padding: 5px;
+}
+.etiqueta1{
+	background-color: #F4FAF9;
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-left:  12px;
+	padding: 5px;
+}
+.etiqueta2{
+	background-color: #F4FAF9;
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-left: 23px;
+	padding: 5px;
+}
+button{
+	background-color: #11DF5F;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 77px;
+	padding: 5px;
+}
